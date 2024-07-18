@@ -4,8 +4,11 @@
 
 🌱I'm currently learning Flask and Javascript.
 
+⚡ Most projects here are not finished due to the lack of spare time, but keep trying to work on my personal projects when possible.
+
 📫 Contact Me
 luizantonio1127@outlook.com
+
 
 <!--
 **Hiroshime/Hiroshime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
