@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Luiz Antonio👋
+
+🔭I work with cloud network infrastructure but also love to code.
+
+🌱I'm currently learning Flask and Javascript.
+
+📫 Contact Me
+luizantonio1127@outlook.com
 
 <!--
 **Hiroshime/Hiroshime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
